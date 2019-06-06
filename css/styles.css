@@ -1,0 +1,24 @@
+form {
+  max-width: 50%;
+}
+
+p {
+}
+
+.btn {
+  border: solid 1px lightgray;
+}
+
+.btn:hover {
+  color:white;
+  background-color: lightgray;
+}
+
+img {
+  max-width: 350px;
+  margin: 15px;
+}
+
+.baggins, .ariel, .darko, .nomatch {
+  display: none;
+}
